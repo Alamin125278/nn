@@ -1,0 +1,19 @@
+[
+    {
+        "About-des":"Web developer,with extensive knowledge and years of experience, working in web technologies and Ui/Ux desing, delivering quality work",
+        "About-info":[
+            {
+            "title":"08+",
+            "name":"Years experience"
+           },
+           {
+            "title":"20+",
+            "name":"Completed project"
+           },
+           {"title":"05+",
+            "name" :"Companies worked"
+           }
+        ],
+        "About-btn":"Download CV"
+    }
+]

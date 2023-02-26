@@ -1,0 +1,27 @@
+[
+    {
+        "education":[
+            {
+                "title":"Computer Engineer",
+                "sub":"Peru -University",
+                "calender":"2009-2014"
+            },
+            {
+                "title":"Web Desing",
+                "sub":"Spain -Institute",
+                "calender":" 2014-2017"
+            },
+            {
+                "title":"Web Development",
+                "sub":"Peru -Institute",
+                "calender":" 2017-2019"
+            },
+            {
+                "title":"Master in Ui/Ux",
+                "sub":"Peru -Institute",
+                "calender":" 2019-2021"
+            }
+        
+        ]
+    }
+]

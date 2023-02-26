@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Ui/Ux <br>Desingner",
+    "btn": "View More",
+    "modal": [
+      {
+        "modal-title": "Ui/Ux <br>Desingner",
+        "ul": [
+          {
+            "pera": "I develop the user interface",
+            "pera2": "Web page development",
+            "pera3": "I create ux element interactions",
+            "pera4": "I possition your company brand"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Frontend<br>developer",
+    "btn": "View More",
+    "modal": [
+      {
+        "modal-title": "Frontend<br>developer",
+        "ul": [
+          {
+            "pera": "I develop the user interface",
+            "pera2": "Web page development",
+            "pera3": "I create ux element interactions",
+            "pera4": "I possition your company brand"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Branding<br>Desingner",
+    "btn": "View More",
+    "modal": [
+      {
+        "modal-title": "Branding<br>Desingner",
+        "list": [
+          {
+            "pera": "I develop the user interface",
+            "pera2": "Web page development",
+            "pera3": "I create ux element interactions",
+            "pera4": "I possition your company brand"
+          }
+        ]
+      }
+    ]
+  }
+]

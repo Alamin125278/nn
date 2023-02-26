@@ -1,0 +1,23 @@
+[
+    {
+        "name":"PHP",
+        "number":"80%",
+        "skills":"80%"
+    },
+    {
+        "name":"NODE JS",
+        "number":"70%",
+        "skills":"70%"
+    },
+    {
+        "name":"FIREBASE",
+        "number":"90%",
+        "skills":"90%"
+    },
+    {
+        "name":"PYTHON",
+        "number":"55%",
+        "skills":"55%"
+        
+    }
+]

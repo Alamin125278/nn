@@ -1,0 +1,23 @@
+[
+    {
+        "name":"HTML",
+        "number":"90%",
+        "skills":"90%"
+    },
+    {
+        "name":"CSS",
+        "number":"80%",
+        "skills":"80%"
+    },
+    {
+        "name":"JAVASCRIPT",
+        "number":"70%",
+        "skills":"70%"
+    },
+    {
+        "name":"REACT",
+        "number":"85%",
+        "skills":"85%"
+        
+    }
+]
